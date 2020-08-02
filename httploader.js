@@ -27,7 +27,6 @@ function load(dom, url, source_dom=false)
             dom.innerHTML = content;
         }
     };
-    start = new Date().getTime();
     xml_http.open("GET", url, true);
     xml_http.send(null);
 }
