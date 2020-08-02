@@ -1,7 +1,7 @@
 function load(dom, url, source_dom=false)
 {
     let body = document.getElementsByTagName("body")[0];
-    let xml_http = new XMLHttpRequest(), content, content_process, start;
+    let xml_http = new XMLHttpRequest(), content, content_process;
     xml_http.onreadystatechange = function()
     {
         if (xml_http.readyState === 4 && xml_http.status === 200)
