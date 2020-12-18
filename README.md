@@ -1,8 +1,6 @@
 # httploader.js
 Load content from an url in an element (without jQuery)
 
-> **⚠️This repository was moved: https://git.mirko.pm/brombinmirko/httploader-js**
-
 ## How to use
 First of all import `httploader.js` in your project. 
 
