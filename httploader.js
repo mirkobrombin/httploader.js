@@ -1,4 +1,4 @@
-/* https://git.mirko.pm/brombinmirko/httploader-js 
+/* https://github.com/mirkobrombin/httploader.js
  * 
  * Copyright (c) 2020 Mirko Brombin <send@mirko.pm>
  * 
